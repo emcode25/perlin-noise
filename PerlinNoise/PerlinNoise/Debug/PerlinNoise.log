@@ -1,0 +1,9 @@
+﻿  main.c
+C:\Users\User\source\repos\PerlinNoise\PerlinNoise\main.c(57,7): warning C4013: 'srand' undefined; assuming extern returning int
+C:\Users\User\source\repos\PerlinNoise\PerlinNoise\main.c(68,27): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\source\repos\PerlinNoise\PerlinNoise\main.c(68,30): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\source\repos\PerlinNoise\PerlinNoise\main.c(83,71): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+  perlin.c
+C:\Users\User\source\repos\PerlinNoise\PerlinNoise\perlin.c(8,18): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  PerlinNoise.vcxproj -> C:\Users\User\source\repos\PerlinNoise\Debug\PerlinNoise.exe
