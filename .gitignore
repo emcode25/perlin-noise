@@ -1,0 +1,10 @@
+src/
+VC/PerlinNoise/.vs
+VC/PerlinNoise/Debug/
+VC/PerlinNoise/Release/
+VC/PerlinNoise/x64/
+VC/PerlinNoise/PerlinNoise/Debug/
+VC/PerlinNoise/PerlinNoise/Release/
+VC/PerlinNoise/PerlinNoise/x64/
+VC/PerlinNoise/PerlinNoise/PerlinNoise.vcxproj.user
+
