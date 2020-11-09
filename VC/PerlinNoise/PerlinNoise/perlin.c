@@ -5,8 +5,6 @@
 
 void shuffleHash(int* p)
 {
-	srand(time(NULL)); //Ensure that the randomness is truly random
-
 	for(int i = 0; i < PERMUTATION_SIZE; ++i) //Reset array
 	{
 		p[i] = i;
